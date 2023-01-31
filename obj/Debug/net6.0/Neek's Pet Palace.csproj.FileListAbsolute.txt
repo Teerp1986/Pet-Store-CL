@@ -1,0 +1,15 @@
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.csproj.AssemblyReference.cache
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.AssemblyInfoInputs.cache
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.AssemblyInfo.cs
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.csproj.CoreCompileInputs.cache
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\bin\Debug\net6.0\Neek's Pet Palace.exe
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\bin\Debug\net6.0\Neek's Pet Palace.deps.json
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\bin\Debug\net6.0\Neek's Pet Palace.runtimeconfig.json
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\bin\Debug\net6.0\Neek's Pet Palace.dll
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\bin\Debug\net6.0\Neek's Pet Palace.pdb
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.dll
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\refint\Neek's Pet Palace.dll
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.pdb
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\Neek's Pet Palace.genruntimeconfig.cache
+C:\Users\Tonika Price\source\repos\Neek's Pet Palace\obj\Debug\net6.0\ref\Neek's Pet Palace.dll
